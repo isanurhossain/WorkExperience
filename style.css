@@ -1,0 +1,485 @@
+*{
+padding: 0px;
+margin: 0px;
+}
+.main-section{
+width: 100%;
+height: 1256px;
+/*background-color:violet;*/
+background-color: #F1F1F1;
+}
+.contenter-left-site{
+width: 430px;
+height: 1191px;
+/*background-color: gray;*/
+background-color: #FFFFFF;
+float: left;
+margin-left: 14px;
+margin-top: 11px;
+box-shadow: 6px 6px 10px 1px #d1d1d1;
+}
+.content-right-site {
+width: 64.7%;
+height: 600px;
+/*background-color: green;*/
+background-color: #FFFFFF;
+float: left;
+margin-top: 11px;
+margin-left: 16px;
+box-shadow: 6px 6px 10px 1px #d1d1d1;
+}
+/*===============img or link========================*/
+.contenter-left-site img {
+width: 100%;
+height: 289px;
+}
+.contenter-left-site h2 {
+margin-top: -48px;
+margin-left: 11px;
+font-size: 30px;
+font-weight: 100;
+}
+.menu-link {
+width: 93%;===================
+height: 350px;
+/*background-color: red;*/
+margin: auto;
+border-bottom: 1px solid #EEEEEE;
+padding-top: 15px;
+padding-bottom: 12px;
+}
+.menu-link ul li {
+list-style-type: none;
+padding: 11px 0px;
+font-size: 15px;
+}
+.menu-link ul li a{
+text-decoration: none;
+color: #757575;
+}
+.menu-link ul li i{
+padding-right: 10px;
+font-size: 16px;
+color: #009688;
+}
+/*=============skllissection==============*/
+.skllissection{
+width: 93%;
+height: 614px;
+margin: auto;
+margin-top: 13px;
+padding-top: 18px;
+/*background-color:lime;*/
+}
+.skllissection h4 {
+padding: 6px 0px;
+font-size: 18px;
+color: #757575;
+}
+.skllissection i{
+padding-right: 10px;
+font-size: 16px;
+color: #009688;
+}
+/*==============skllis parsing one============*/
+.skllisparsing {
+width: 100%;=======================================
+height: 365px;
+/*background-color: red;*/
+background-color: #FFFFFF;
+}
+.adobe1 {
+padding: 21px 0px;
+font-size: 15px;
+margin-bottom: 4px;
+color: #757575;
+}
+.skllis-one1 {
+width: 96%;
+height: 19px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.skllis-top1{
+width: 90%;
+height: 19px;
+background-color:#009688; 
+border-radius: 9px;
+}
+.parsing1 {
+text-align: center;
+font-size: 13px;
+color: #fff;
+padding-top: 1px;
+}
+/*==============skllis parsing two==============*/
+/*.skllisparsing{
+width: 92%;
+height: 516px;
+background-color: red;
+margin-left: 18px;
+}*/
+.adobe2 {
+padding: 21px 0px;
+font-size: 15px;
+margin-bottom: 4px;
+color: #757575;
+}
+.skllis-one2 {
+width: 96%;
+height: 19px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.skllis-top2{
+width: 80%;
+height: 19px;
+background-color:#009688; 
+border-radius: 9px;
+}
+.parsing2 {
+text-align: center;
+font-size: 13px;
+color: #fff;
+padding-top: 1px;
+}
+/*===============skllis parsing three======================*/
+/*.skllisparsing{
+width: 92%;
+height: 516px;
+background-color: red;
+margin-left: 18px;
+}*/
+.adobe3 {
+padding: 21px 0px;
+font-size: 15px;
+margin-bottom: 4px;
+color: #757575;
+}
+.skllis-one3 {
+width: 96%;
+height: 19px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.skllis-top3{
+width: 75%;
+height: 19px;
+background-color:#009688; 
+border-radius: 9px;
+}
+.parsing3{
+text-align: center;
+font-size: 13px;
+color: #fff;
+padding-top: 1px;
+}
+/*==============skllis parsing four=======================*/
+/*.skllisparsing{
+width: 92%;
+height: 516px;
+background-color: red;
+margin-left: 18px;
+}*/
+.adobe4 {
+padding: 21px 0px;
+font-size: 15px;
+margin-bottom: 4px;
+color: #757575;
+}
+.skllis-one4 {
+width: 100%;=============
+height: 19px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.skllis-top4{
+width: 50%;
+height: 19px;
+background-color:#009688; 
+border-radius: 9px;
+}
+.parsing4 {
+text-align: center;
+font-size: 13px;
+color: #fff;
+padding-top: 1px;
+}
+/*=================*/
+.Languages-parsing-two{
+width: 100%;===============
+height: 300px;
+/*background-color: lime;*/
+background-color: #FFFFFF;
+}
+.Languages-parsing-two h4 {
+color: #757575;
+padding-top: 46px;
+margin-bottom: 21px;
+}
+.Languages-parsing-two i{
+padding-right: 14px;
+font-size: 16px;
+color: #009688;
+}
+.english-parsing{
+width: 100%;
+height: 25px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.englis{
+padding: 21px 0px;
+font-size: 15px;
+margin-bottom: 4px;
+color: #757575;
+}
+.Languages-parsing-two p {
+padding: 1px 0px;
+margin-bottom: 17px;
+}
+.english-two {
+width: 100%;
+height: 25px;
+background-color:#009688;
+border-radius: 9px;
+}
+.Spanish-parsing{
+width: 100%;
+height: 25px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.Spanish-two{
+width: 50%;
+height: 25px;
+background-color: #009688;
+border-radius: 9px;
+}
+.German-parsing{
+width: 100%;============
+height: 25px;
+background-color: #F1F1F1;
+border-radius: 9px;
+}
+.German-two{
+width: 25%;
+height: 25px;
+background-color: #009688;
+border-radius: 9px;
+}
+.container-div{
+width: 96%;
+height: 600px;
+/*background-color: tomato;*/
+margin: auto;
+}
+.work{
+padding: 36px 0px;
+font-size: 32px;
+font-weight: 500;
+color: #656565;
+}
+.work-experience i{
+padding-right: 18px;
+font-size: 33px;
+color: #009688;
+}
+.front-end-developer {
+width: 100%;
+height: 140px;
+/*background-color: white;*/
+border-bottom: 1px solid #EEEEEE;
+}
+.front{
+display: block;
+margin-bottom: 13px;
+font-size: 20px;
+color: #656565;
+}
+.janury{
+float: left;
+}
+.Current{
+float: left;
+}
+.front-end-developer i {
+margin-right: 18px;
+/* padding-right: 18px; */
+font-size: 17px;
+/*color: #009688;*/
+padding: 3px 0px;
+}
+.front-end-developer p{
+color: #009688;
+}
+.front-end-developer span {
+margin-left: 6px;
+background-color: #009688;
+padding: 3px 9px;
+color: #fff;
+border-radius: 4px;
+display: block;
+}
+.lorem {
+padding: 21px 0px;
+float: left;
+color: #656565!important;
+}
+/*===========Web Developer / something.com========*/
+.web-developer {
+width: 100%;
+height: 140px;
+margin-top: 36px;
+border-bottom: 1px solid #EEEEEE;
+}
+.web{
+margin-bottom: 13px;
+font-size: 20px;
+color: #656565;
+}
+.web-developer i {
+font-size: 17px;
+/*margin-top: 10px;*/
+}
+}
+.march{
+color: #009688;
+margin-top: 10px;
+}
+.consetetur{
+padding: 21px 0px;
+color: #656565;
+}
+/*========Graphic Designer / designsomething.com========*/
+.graphic-designer{
+width: 100%;
+height: 140px;
+margin-top: 36px;
+/*border-bottom: 1px solid #EEEEEE;*/
+}
+.Graphic{
+margin-bottom: 13px;
+font-size: 20px;
+color: #656565;
+}
+.graphic-designer i{
+font-size: 17px;
+/*margin-top: 10px;*/
+}
+.janury22{
+color: #009688;
+margin-top: 10px;
+}
+.loremipsum{
+padding: 21px 0px;
+color: #656565;
+}
+/*=========Education main-section====================*/
+.education-main-section {
+width: 64.7%;
+height: 613px;
+/*background-color: red;*/
+background-color: #FFFFFF;
+float: left;
+margin-top: 16px;
+margin-left: 16px;
+box-shadow: 6px 6px 10px 1px #d1d1d1;
+}
+.education-section{
+width: 96%;
+height: 551px;
+/*background-color: lime;*/
+margin: auto;
+}
+.educaton-h2{
+width: 100%;
+height:231px;
+border-bottom: 1px solid #EEEEEE;
+}
+.educaton-h2 i{
+padding-right: 18px;
+font-size: 33px;
+color: #009688;
+}
+.educeation {
+padding: 34px 0px;
+font-size: 32px;
+font-weight: 500;
+color: #656565;
+}
+.w3schools{
+margin-bottom: 13px;
+font-size: 20px;
+color: #656565;
+}
+.educaton-h2 i{
+font-size: 33px;
+padding-right: 18px;
+}
+.forever{
+color: #009688;
+margin-top: 19px;
+}
+.developer{
+padding: 22px 0px;
+color: #656565;
+}
+/*========london-business-school==============*/
+.london-business-school{
+width: 100%;
+height:123px;
+margin-top: 33px;
+border-bottom: 1px solid #EEEEEE;
+}
+.london{
+margin-bottom: 13px;
+font-size: 20px;
+color: #656565;
+}
+.schools{
+color: #009688;
+margin-top: 19px;
+}
+.master{
+padding: 22px 0px;
+color: #656565;
+}
+/*================school-of-coding==============*/
+.school-of-coding{
+width: 100%;
+height:150px;
+margin-top: 33px;
+/*border-bottom: 1px solid #EEEEEE;*/
+}
+.coding{
+margin-bottom: 13px;
+font-size: 20px;
+color: #656565;
+}
+.degree{
+color: #009688;
+margin-top: 19px;
+}
+.bachelor{
+padding: 22px 0px;
+color: #656565;
+}
+.footer-section{
+width: 100%;
+height:125px;
+background-color: #009688;
+}
+.footer {
+width: 281px;
+height: 118px;
+/*background-color: red;*/
+margin: auto;
+}
+.powred-by{
+text-align: center;
+color: #fff;
+margin-top: 20px;
+font-size: 15px;
+}
+
